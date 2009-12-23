@@ -1,0 +1,11 @@
+
+textmate - place the tmTheme in  ~/Library/Application\ Support/TextMate/Themes/
+xcode - place the xccolortheme in ~/Library/Application\ Support/Xcode/Color\ Themes/
+
+
+for emacs
+
+(require 'color-theme)
+(color-theme-initialize)
+(load-file "~/.emacs.d/packages/zen-and-art/zen-and-art.el")
+(color-theme-zen-and-art)
