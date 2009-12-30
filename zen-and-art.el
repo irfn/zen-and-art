@@ -14,6 +14,7 @@
      (bold ((t (:bold t))))
      (bold-italic ((t (:italic t :bold t))))
      (fringe ((t (:background "#252323"))))
+		 (highlight-current-line-face ((t (:background "#252323"))))
      (font-lock-builtin-face ((t (:foreground "#86453A"))))
      (font-lock-comment-face ((t (:italic t :foreground "#333B40"))))
      (font-lock-comment-delimiter-face ((t (:foreground "#4C565D"))))
