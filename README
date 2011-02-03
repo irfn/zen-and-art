@@ -1,7 +1,6 @@
-
 textmate - place the tmTheme in  ~/Library/Application\ Support/TextMate/Themes/
 xcode - place the xccolortheme in ~/Library/Application\ Support/Xcode/Color\ Themes/
-Intellij - ~/Library/Preferences/IntelliJIdea10CE/colors/
+Intellij10CE - place the xml in ~/Library/Preferences/IntelliJIdea10CE/colors/
 
 for emacs
 
