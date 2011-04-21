@@ -2,6 +2,7 @@ textmate - place the tmTheme in  ~/Library/Application\ Support/TextMate/Themes/
 xcode - place the xccolortheme in ~/Library/Application\ Support/Xcode/Color\ Themes/
 xcode4 - place the dvtcolortheme in ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 Intellij10CE - place the xml in ~/Library/Preferences/IntelliJIdea10CE/colors/
+Vim - place the zen-and-art.vim in ~/.vim/colors
 
 
 for emacs
